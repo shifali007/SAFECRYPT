@@ -1,0 +1,17 @@
+{
+  "shifali": [
+    {
+      "name": "sample.txt",
+      "location": "C:/Users/Shifali chauhan/Desktop/sample.txt",
+      "status": "Decrypted",
+      "visibility": "Visible",
+      "key_used": "-",
+      "path": "C:/Users/Shifali chauhan/Desktop/sample.txt",
+      "is_folder": false,
+      "encrypted": false,
+      "hidden": true,
+      "key": null,
+      "editable": false
+    }
+  ]
+}
